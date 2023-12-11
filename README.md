@@ -7,11 +7,11 @@
 
 <div>
   <img align="center" alt="" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  #
   <img align="center" alt="" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
                 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayaneacacio&show_icons=true&theme=dracula)
 
 <div>
   <img align="center" alt="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
