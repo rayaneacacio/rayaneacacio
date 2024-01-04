@@ -1,6 +1,7 @@
-<h1> Oie Mundo 💙 </h1>
 
-<p> Estou estudando JavaScript e quero trabalhar com desenvolvimento FrontEnd. </p>
+74\<h1> Oie Mundo 💙 </h1>
+
+<p> Estou estudando JavaScript e trabalho com desenvolvimento FrontEnd. </p>
 <p> https://rayaneacacio.netlify.app </p>
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
