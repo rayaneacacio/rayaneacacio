@@ -1,5 +1,4 @@
-
-74\<h1> Oie Mundo 💙 </h1>
+<h1> Oie Mundo 💙 </h1>
 
 <p> Estou estudando JavaScript e trabalho com desenvolvimento FrontEnd. </p>
 <p> https://rayaneacacio.netlify.app </p>
